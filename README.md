@@ -33,7 +33,7 @@ pip install pandas numpy matplotlib scikit-learn seaborn
 ## Installation
 To start using this script, clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourUsername/titanic-data-analysis.git
+git clone https://github.com/ranuelyn/titanic-data-analysis.git
 ```
 ---
 Navigate to the script's directory:
